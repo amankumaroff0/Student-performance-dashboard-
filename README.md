@@ -1,5 +1,4 @@
 # Student-performance-dashboard-
-build in 11th grade, this "War Room" dashboard is a personal, AI-assisted study progress tracker platform designed to monitor real-time score variance and subject mastery. It features tiered syllabus goals, a daily firepower question log, and a mock test graphing to keep my exam prep focused and data driven
 The "War Room" Dashboard is a custom-engineered, AI-assisted study analytics platform I built in 11th grade to meticulously track my competitive exam preparation. Designed to replace scattered spreadsheets, this tool acts as a gamified command center for academic progress.  
 ​The Crimson Protocol UI: The dark black, red, and crimson color palette is a deliberate design choice. The dark background drastically reduces eye strain during long study sessions, while the crimson accents are used strategically to trigger psychological alertness and signal the critical importance of the data.
 ​Mock Test Lab: Features a dynamic performance trendline graph to visualize mock test score history, tracking progress from my starting baseline to current levels.  
